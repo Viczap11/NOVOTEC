@@ -6,7 +6,7 @@
 // Importa a Classe Scanner 
 import java.util.Scanner;
 // Importa a classe principal 
-public class VictorCarvalho_Exercício01 {
+public class VictorCarvalho_Exercício06 {
     public static void main (String [] args){
         // Classe Scanner 
         Scanner leitor = new Scanner(System.in);
