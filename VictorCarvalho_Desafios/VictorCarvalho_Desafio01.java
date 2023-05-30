@@ -3,7 +3,7 @@ Conta até 200 e mostra os múltiplos de dez
 Autor:Victor Geovanne
 30/05/2023
 */
-public class VictorCarvalho_Desafio1 {
+public class VictorCarvalho_Desafio01 {
     public static void main(String [] args){
     
     //Declaração das variáveis
