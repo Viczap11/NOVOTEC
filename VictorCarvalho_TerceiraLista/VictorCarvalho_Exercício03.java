@@ -19,7 +19,7 @@ public class VictorCarvalho_Exercício03{
         somador = media = 0;
 
         //Estrutura de repetição
-        while(contador < 10){
+        while(contador < 500){
 
             //Instrução para o usuário e recepção de variáveis
             System.out.println("Digite um número: ");
