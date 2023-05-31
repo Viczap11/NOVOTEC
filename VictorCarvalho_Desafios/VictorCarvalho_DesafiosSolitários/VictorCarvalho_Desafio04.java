@@ -1,5 +1,5 @@
 /*
-Operações de um programa de controle
+Operações de um programa de controle de estoque 
 Autor: Victor Geovanne
 30/05/2023
 */
