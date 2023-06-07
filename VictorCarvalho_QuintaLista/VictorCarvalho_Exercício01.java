@@ -14,10 +14,11 @@ class Alimentos{
 
 /* CRIAÇÃO DOS ATRIBUTOS */
 
-String textura, gosto, corDaCasca, corDeDentro, tamanho, cheiro  ;
+String textura, gosto, corDaCasca, corDeDentro,  cheiro  ;
 float peso, precoDoAlimento;
 boolean comestivel;  
 int quantidadeDoAlimento;
+char tamanho;
 
  
 
